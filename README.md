@@ -13,4 +13,14 @@ And yes, my native language is Russian, so I use a translator :D<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HCJFocus&theme=dark&show_icons=true)
 
-__*Live and work in your free time!*__
+## ❗ Languages ​​in which I write (also teach them)
+
+![JS](https://img.shields.io/badge/JavaScript-F0FF00?style=for-the-badge&=JavaScript)
+![HTML](https://img.shields.io/badge/HTML-E37334?style=for-the-badge&logo=HTML)
+![CSS](https://img.shields.io/badge/CSS-519ABA?style=for-the-badge&logo=CSS)
+![PHP](https://img.shields.io/badge/PHP-686B9C?style=for-the-badge&)
+![SQL](https://img.shields.io/badge/SQL-007777?style=for-the-badge&)
+
+*other languages ​​are also in the plans*<br/>
+
+__⭐Live and work in your free time!__
